@@ -1,0 +1,18 @@
+body {
+	background-color: #c2a7f2;
+	font-family: sans-serif;
+}
+
+h1 {
+	color: #2A1959;
+	border-bottom: 2px solid #A1959;
+}
+
+h2 {
+	color: #474b94;
+	font-size: 1.2em;
+}
+
+h2, p {
+	margin-left: 120px;
+}
